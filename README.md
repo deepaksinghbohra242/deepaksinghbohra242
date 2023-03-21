@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm DEEPAK SINGH BOHRA</h1>
 <h3 align="center">Computer Science Student</h3>
 
+<!-- <img align="right" alt="coding" src="/deepaksinghbohra242/giphy.gif"> -->
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
