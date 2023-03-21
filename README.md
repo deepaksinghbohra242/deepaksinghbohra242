@@ -1,14 +1,15 @@
 <h1 align="center"> Yo 👋, I'm DEEPAK SINGH BOHRA</h1>
-<h3 align="center">Computer Science Student</h3>
 
+<img align="center" alt="coding" src="https://raw.githubusercontent.com/deepaksinghbohra242/deepaksinghbohra242/main/giphy%20(1).gif" width="100%">
 
+- 🌱 I’m currently learning Full Stack Development
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/deepakbohra2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepakbohra2907" height="30" width="40" /></a>
 
-
-
-
-
-
+<a href="https://www.linkedin.com/in/deepak singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakbohra2907" height="30" width="40" /></a>
+</p>
 
 
 
