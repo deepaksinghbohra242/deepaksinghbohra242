@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm DEEPAK SINGH BOHRA</h1>
+<h1 align="center"> Yo 👋, I'm DEEPAK SINGH BOHRA</h1>
+<h3 align="center">Computer Science Student</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center"> Yo 👋, I'm DEEPAK SINGH BOHRA</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <img align="right" alt="coding"
@@ -17,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksinghbohra242&show_icons=true&locale=en" alt="deepaksinghbohra242" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghbohra242&" alt="deepaksinghbohra242" /></p>
+ -->
