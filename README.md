@@ -1,4 +1,4 @@
-<h1 align="center"> Yo 👋, I'm DEEPAK SINGH BOHRA</h1>
+<h1 align="center"> Hello 👋, I'm DEEPAK SINGH BOHRA</h1>
 
 <img align="center" alt="coding" src="https://raw.githubusercontent.com/deepaksinghbohra242/deepaksinghbohra242/main/giphy%20(1).gif" width="100%">
 
